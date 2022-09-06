@@ -1,1 +1,1 @@
-Learn redirections
+redirections section
